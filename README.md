@@ -40,13 +40,28 @@ Most “quantum” roles revolve around simulation. This one doesn’t. You’ll
 We’re looking for someone who understands the theory—but is more interested in building systems that *run*.
 
 ---
+## 📬 Interested? Reach out to the Cosmic Labs team
 
-**##📬 Interested? Reach out to the Cosmic Labs team. Email the following: **
-- In email body: Your name, why you're interested in the role, preferred start/end dates, current education level, and a few lines on your eligibility.
-- In the attachments: Your CV (pdf)
-- Email: [team@cosmiclabs.io](mailto:team@cosmiclabs.io)
-- Application window closes EOD June 12, 2025
-- Candidates will be reviewed as soon as they submit.
+**Email the following:**
 
-## Why Join 
-We’re a venture-backed, pre-seed startup set to disrupt the entire telecom, connectivity, and AI industries by introducing intelligence at the lowest levels. We’re not tweaking pipes—we’re rewriting how data moves. 
+**Subject Header:**
+- Quantum Computing Summer Resident / [YOUR NAME]
+
+**In the email body:**
+- Your name  
+- Why you're interested in the role  
+- Preferred start/end dates  
+- Current education level  
+- A few lines on your eligibility  
+
+**In the attachments:**
+- Your CV (PDF)  
+
+📩 Email: [team@cosmiclabs.io](mailto:team@cosmiclabs.io)  
+⏳ Application window closes **EOD June 12, 2025**  
+✅ Candidates will be reviewed as soon as they submit  
+
+---
+
+## 🔍 Why Join  
+We’re a venture-backed, pre-seed startup set to disrupt the entire telecom, connectivity, and AI industries by introducing intelligence at the lowest levels. We’re not tweaking pipes—we’re rewriting how data moves.
